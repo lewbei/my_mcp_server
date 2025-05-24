@@ -1,0 +1,5 @@
+- [x] Scaffold the project structure with `src/`, `tests/`, and `.tasks/` directories.
+- [x] Implement `src/logger.py` containing the `get_logger` function.
+- [x] Write unit tests in `tests/` to verify logger creation.
+- [x] Run the tests using `pytest`.
+- [x] Finalize the project and ensure documentation is complete.
